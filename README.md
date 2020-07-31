@@ -38,13 +38,13 @@ area = 6
 ~~~
 
 **They are five operators**  
-1. Assignment
+1. ***Assignment***
 color = 'orange'; 
-2. Arithmetic (performs basic math)  
+2. ***Arithmetic (performs basic math)***  
 area = 3*2 ;
-3. String   
+3. ***String***  
 greeating = 'Hello' + ''+'World!';
-4. Comparison 
+4. ***Comparison*** 
 buy = 1<5; 
 5. Logical 
 buy = (1<5) &&(2>4);
