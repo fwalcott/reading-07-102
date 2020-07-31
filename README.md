@@ -38,7 +38,7 @@ area = 6
 ~~~
 
 **They are five operators**  
-1. ***Assignment***color = 'orange'; 
+1. ***Assignment*** color = 'orange'; 
 2. ***Arithmetic (performs basic math)***  area = 3*2 ;
 3. ***String***  greeating = 'Hello' + ''+'World!';
 4. ***Comparison*** buy = 1<5; 
