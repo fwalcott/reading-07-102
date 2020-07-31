@@ -46,7 +46,7 @@ area = 3*2 ;
 greeating = 'Hello' + ''+'World!';
 4. ***Comparison*** 
 buy = 1<5; 
-5. Logical 
+5. ***Logical***
 buy = (1<5) &&(2>4);
 
 The arithmetic operators are all things we have seen before addition(+), subtractions(-), division(/), and multiplication(*).  *But the are a few others that aren't as recognizable.*  ***Increment (++) adds one to the current number. Decrement (--) subtract one from the current number. Modulus (%) divides a number and returns a remainder (10%3) will return 1.*** 
